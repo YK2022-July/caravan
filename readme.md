@@ -1,1 +1,2 @@
-#DMM WEBCAMPのカリキュラム「HTML/CSSを学ぼう」4章【Webページの枠組みを作ろう】の学習リポジトリ
+#DMM WEBCAMPのカリキュラム「HTML/CSSを学ぼう」4章以降の学習リポジトリ
+
