@@ -44,6 +44,7 @@ header.heading{ /*headerタグ内のheadingクラスにのみ反映*/
 .main-visual-content{
   width: 40%; /*横幅40%*/
   height: 300px; /*親の高さにそろえる*/
+  background-color: rgba(0,0,0,0.5); /*背景色を半透明の黒にする*/
 }
 
 .main{
