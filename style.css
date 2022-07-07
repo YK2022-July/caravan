@@ -91,6 +91,7 @@ main{
 
 .blog-date{
   font-size: 12px;
+  display: inline-block;
 }
 
 .category{
