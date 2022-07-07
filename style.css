@@ -42,7 +42,7 @@ header.heading{ /*headerタグ内のheadingクラスにのみ反映*/
 }
 
 .main-visual-content{
-  width: 350px; /*横幅350px*/
+  width: 40%; /*横幅40%*/
   height: 300px; /*親の高さにそろえる*/
 }
 
