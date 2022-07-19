@@ -228,7 +228,8 @@ footer{
   color: #fff;
 }
 
-/*すべての画面サイズで適用されるサイズ*/
+
+/*すべての画面サイズで適用される設定*/
 .social i{
   color: black;
 }
@@ -241,7 +242,7 @@ footer{
 }
 
 /*タブレット縦置きサイズ（768px）以下の際に適用される設定*/
-@media screen and (max-width:768) {
+@media screen and (max-width:768px) {
   .social i{
     color: red;
   }
